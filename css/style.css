@@ -1,3 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Alata&family=Comfortaa:wght@300&family=Lora:ital,wght@0,400;1,600&display=swap");
+h3 {
+  font-family: "Comfortaa", cursive;
+  font-family: "Lora", serif;
+}
+
+.card-title {
+  font-family: "Comfortaa", cursive;
+  font-family: "Lora", serif;
+  font-weight: 300;
+}
+
+h5 {
+  font-family: "Alata", sans-serif;
+  font-weight: 400;
+}
+
+h6 {
+  color: orangered;
+}
+
 header i {
   font-size: 20px;
   margin: 0 18px;
@@ -16,15 +37,26 @@ header i {
 
 ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
-a {
+li a {
+  text-decoration: none;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li a {
   text-decoration: none;
   color: white;
 }
 
 .carousel-item {
-  height: 350px;
+  height: 400px;
 }
 
 /*# sourceMappingURL=style.css.map */
