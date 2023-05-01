@@ -19,6 +19,11 @@ h6 {
   color: orangered;
 }
 
+i {
+  font-family: "Lora", serif;
+  color: white;
+}
+
 header i {
   font-size: 20px;
   margin: 0 18px;
@@ -43,6 +48,10 @@ ul {
 
 li a {
   text-decoration: none;
+  color: white;
+}
+
+.contacto-footer li {
   color: white;
 }
 
