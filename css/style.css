@@ -35,6 +35,10 @@ header i {
   background-color: #581854;
 }
 
+.carousel-item {
+  height: 415px;
+}
+
 .estiloFooter {
   background-color: #581854;
   margin-top: 3;
@@ -64,8 +68,8 @@ li a {
   color: white;
 }
 
-.carousel-item {
-  height: 400px;
+.altura-cards {
+  height: 30px;
 }
 
 /*# sourceMappingURL=style.css.map */
