@@ -24,15 +24,15 @@ i {
   color: white;
 }
 
+.navbar {
+  background-color: #581854;
+}
+
 header i {
   font-size: 20px;
   margin: 0 18px;
   align-self: center;
   color: white;
-}
-
-.navbar {
-  background-color: #581854;
 }
 
 .carousel-item {
